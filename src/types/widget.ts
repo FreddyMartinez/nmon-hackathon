@@ -1,1 +1,1 @@
-export type Widget = unknown;
+export type Widget = { values: { lstItemsErrors: string }};
